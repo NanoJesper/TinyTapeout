@@ -9,11 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Sinngle bit flip-flop
 
 ## How to test
 
-Explain how to use your project
+Input pin 1 and 2 used for set/reset
+Output pin 1 and 2 used for readout Q and notQ
 
 ## External hardware
 
